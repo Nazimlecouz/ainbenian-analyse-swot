@@ -1,0 +1,284 @@
+{
+  "commune": "Ain Benian",
+  "population_2020": 75739,
+  "population_urbaine": 73604,
+  "population_rurale": 2135,
+  "densite": 4734,
+  "urbanisation_pct": 97.2,
+  "actifs": 44888,
+  "age_groups": [
+    {
+      "label": "0-4",
+      "total": 5553,
+      "men": 2831,
+      "women": 2722
+    },
+    {
+      "label": "5-9",
+      "total": 5651,
+      "men": 2892,
+      "women": 2759
+    },
+    {
+      "label": "10-14",
+      "total": 5480,
+      "men": 2805,
+      "women": 2675
+    },
+    {
+      "label": "15-19",
+      "total": 5301,
+      "men": 2723,
+      "women": 2578
+    },
+    {
+      "label": "20-24",
+      "total": 5653,
+      "men": 2874,
+      "women": 2779
+    },
+    {
+      "label": "25-29",
+      "total": 5978,
+      "men": 3034,
+      "women": 2944
+    },
+    {
+      "label": "30-34",
+      "total": 6322,
+      "men": 3197,
+      "women": 3125
+    },
+    {
+      "label": "35-39",
+      "total": 6431,
+      "men": 3225,
+      "women": 3206
+    },
+    {
+      "label": "40-44",
+      "total": 6439,
+      "men": 3190,
+      "women": 3249
+    },
+    {
+      "label": "45-49",
+      "total": 6040,
+      "men": 3014,
+      "women": 3026
+    },
+    {
+      "label": "50-54",
+      "total": 4633,
+      "men": 2351,
+      "women": 2282
+    },
+    {
+      "label": "55-59",
+      "total": 3392,
+      "men": 1718,
+      "women": 1674
+    },
+    {
+      "label": "60-64",
+      "total": 2744,
+      "men": 1372,
+      "women": 1372
+    },
+    {
+      "label": "65-69",
+      "total": 2011,
+      "men": 953,
+      "women": 1058
+    },
+    {
+      "label": "70-74",
+      "total": 1522,
+      "men": 697,
+      "women": 825
+    },
+    {
+      "label": "75-79",
+      "total": 1244,
+      "men": 570,
+      "women": 674
+    },
+    {
+      "label": "80+",
+      "total": 1344,
+      "men": 612,
+      "women": 732
+    }
+  ],
+  "totals": {
+    "0_19": 21985,
+    "20_59": 44888,
+    "60_plus": 8865
+  },
+  "sex": {
+    "men": 38058,
+    "women": 37681,
+    "ratio": 101
+  },
+  "ca_cheraga": {
+    "population_total": 261229,
+    "communes": [
+      {
+        "name": "Ain Benian",
+        "population": 75739,
+        "surface_km2": 16,
+        "densite": 4734
+      },
+      {
+        "name": "Cheraga",
+        "population": 89557,
+        "surface_km2": 36,
+        "densite": 2488
+      },
+      {
+        "name": "Dely Brahim",
+        "population": 39036,
+        "surface_km2": 7.72,
+        "densite": 5057
+      },
+      {
+        "name": "Ouled Fayet",
+        "population": 30575,
+        "surface_km2": 25,
+        "densite": 1223
+      },
+      {
+        "name": "Baba Hassen",
+        "population": 26322,
+        "surface_km2": 11,
+        "densite": 2393
+      }
+    ]
+  },
+  "projection_2030": {
+    "population": 85300,
+    "extra_habitants": 9561,
+    "logements_needed": 3000,
+    "seniors_60_plus": 13650
+  },
+  "swot": {
+    "strengths": [
+      {
+        "label": "Capital Humain Exceptionnel",
+        "desc": "59,26% de population active (44 888 personnes)",
+        "impact": "Très élevé"
+      },
+      {
+        "label": "Maturité Démographique",
+        "desc": "Pic dans les 35-44 ans (16,99%)",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Équilibre Hommes-Femmes",
+        "desc": "Ratio 50,3% H / 49,7% F",
+        "impact": "Moyen"
+      },
+      {
+        "label": "Potentiel Jeunesse",
+        "desc": "29,03% de moins de 20 ans",
+        "impact": "Moyen"
+      },
+      {
+        "label": "Vieillissement Maîtrisé",
+        "desc": "11,7% de 60+",
+        "impact": "Moyen"
+      },
+      {
+        "label": "Masse Critique Urbaine",
+        "desc": "75 739 habitants",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Urbanisation Complète",
+        "desc": "97,2% urbain",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Position Littorale Stratégique",
+        "desc": "Commune côtière méditerranéenne",
+        "impact": "Très élevé"
+      }
+    ],
+    "weaknesses": [
+      {
+        "label": "Saturation Spatiale Critique",
+        "desc": "Densité de 4 734 hab/km²",
+        "impact": "Très élevé"
+      },
+      {
+        "label": "Dépendance Démographique Élevée",
+        "desc": "68,7 dépendants pour 100 actifs",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Vieillissement Imminent",
+        "desc": "Projection 16% de 60+ en 2030",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Pression Scolaire Intense",
+        "desc": "16 432 jeunes scolarisables",
+        "impact": "Très élevé"
+      },
+      {
+        "label": "Tissu Économique Insuffisant",
+        "desc": "Économie essentiellement résidentielle",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Épuisement Foncier Total",
+        "desc": "97,2% urbanisé",
+        "impact": "Très élevé"
+      }
+    ],
+    "opportunities": [
+      {
+        "label": "Silver Economy en Expansion",
+        "desc": "8 865 seniors → 13 650 en 2030",
+        "impact": "Moyen"
+      },
+      {
+        "label": "Vivier de Formation",
+        "desc": "11 000 jeunes 15-24 ans",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Attractivité pour Entreprises",
+        "desc": "Actifs qualifiés disponibles",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Renouvellement Urbain Qualitatif",
+        "desc": "Densification verticale possible",
+        "impact": "Moyen"
+      }
+    ],
+    "threats": [
+      {
+        "label": "Explosion Démographique",
+        "desc": "+9 561 habitants d'ici 2030",
+        "impact": "Très élevé"
+      },
+      {
+        "label": "Tsunami Gris",
+        "desc": "+4 785 seniors en 10 ans",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Chômage de Masse",
+        "desc": "Risque >10% sans diversification",
+        "impact": "Élevé"
+      },
+      {
+        "label": "Crise du Logement",
+        "desc": "+3 000 logements nécessaires",
+        "impact": "Très élevé"
+      }
+    ]
+  }
+}
